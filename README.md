@@ -1,1 +1,1 @@
-# JIKONI-AI
+# justice-lens
