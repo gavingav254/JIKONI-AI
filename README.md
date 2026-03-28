@@ -31,6 +31,7 @@
 
 ## 🏗️ Project Structure
 kazipay/
+
 ├── backend/ # Django project
 │ ├── Kazi_Pay/ # Project settings
 │ ├── kazipay_app/ # Main app (models, views, utils)
@@ -54,7 +55,6 @@ kazipay/
 ├── LICENSE
 └── .gitignore
 
-text
 
 ## 🔐 Authentication & Roles
 
@@ -85,7 +85,7 @@ SMS notifications at every step.
 - Africa’s Talking sandbox credentials
 
 ### Backend (Django)
-```bash
+`
 cd backend
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
